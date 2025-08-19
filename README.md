@@ -1,4 +1,4 @@
-# 👋 Привет! Я Renaganaka
+# 👋 Привет! Я Рашид
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">  
 Frontend-разработчик из Кыргызстана 🇰🇬  
@@ -20,14 +20,14 @@ Frontend-разработчик из Кыргызстана 🇰🇬
 
 | Название | Превью | Ссылка |
 |----------|--------|--------|
-| bckg.kg | ![preview](https://bckg.kg/favicon.ico) | [Посмотреть](https://bckg.kg) |
-| keydev.kg | ![preview](https://keydev.kg/favicon.ico) | [Посмотреть](https://keydev.kg) |
+| bckg.kg | ![preview](https://bckg.kg/static/favicon.ico) | [Посмотреть](https://bckg.kg) |
+| keydev.kg | ![preview](https://keydev.kg/static/favicon.ico) | [Посмотреть](https://keydev.kg) |
 
 ---
 
 ## 📊 GitHub статистика
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=renaganaka&show_icons=true&theme=tokyonight&count_private=true)  
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renaganaka&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renaganaka&layout=compact&theme=tokyonight)  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=renaganaka&theme=tokyonight&no-frame=true&margin-w=10)
 
@@ -42,7 +42,7 @@ Frontend-разработчик из Кыргызстана 🇰🇬
 ---
 
 ## 🌍 Контакты
-[Telegram](https://t.me/renaganaka) | [Email](mailto:renaganaka@gmail.com) | [LinkedIn](https://linkedin.com/in/ТВОЙ_НИК)  
+[Telegram](https://t.me/renaganaka) | [Email](mailto:renaganaka@gmail.com) | [LinkedIn](https://linkedin.com/in/renaganaka)  
 
 ---
 
