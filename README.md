@@ -51,4 +51,4 @@
 ---
 
 ## ✨ Немного анимации
-https://github.com/renaganaka/renaganaka/blob/output/snake.svg
+!(https://github.com/renaganaka/renaganaka/blob/output/snake.svg)
