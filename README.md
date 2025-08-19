@@ -39,7 +39,7 @@
 ---
 
 ## 📊 GitHub Статистика
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=renaganaka&show_icons=true&theme=tokyonight)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=renaganaka&show_icons=true&theme=tokyonight&count_private=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renaganaka&layout=compact&theme=tokyonight)
 
 ---
