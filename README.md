@@ -20,7 +20,7 @@ Frontend-разработчик из Кыргызстана 🇰🇬
 
 | Название | Превью | Ссылка |
 |----------|--------|--------|
-| bckg.kg | ![preview](https://bckg.kg/static/favicon.ico) | [Посмотреть](https://bckg.kg) |
+| bckg.kg | ![preview](https://bckg.kg/static/images/favicon.ico) | [Посмотреть](https://bckg.kg) |
 | keydev.kg | ![preview](https://keydev.kg/static/favicon.ico) | [Посмотреть](https://keydev.kg) |
 
 ---
