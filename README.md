@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://t.me/renaganaka"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  <a href="mailto:r.agalykov@keydev.kg"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:renaganaka@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://keydev.kg"><img src="https://img.shields.io/badge/keydev.kg-0F2027?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
   <img src="https://komarev.com/ghpvc/?username=renaganaka&style=for-the-badge&color=38BDAE&label=PROFILE+VIEWS" alt="views"/>
 </p>
